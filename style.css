@@ -1,0 +1,33 @@
+.header{
+    background:yellowgreen;
+    display:flex;
+    justify-content: space-between;
+}
+
+.game{
+    background:#ff00ee;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.socialmedia{
+    background:#45ae45;
+    display:flex;
+    justify-content: flex-end;
+}
+
+H2,p{
+    text-align: center;
+}
+
+.intro{
+    background:#49a510;
+}
+
+body{
+    background-color: #24af24;
+}
+
+* {
+border:solid
+}
